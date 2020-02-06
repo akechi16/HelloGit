@@ -26,7 +26,8 @@ seito
 
 
 import decimal
-import pickle
+"""import pickle"""
+import decorator
 
 
 for i in range(len(seito['生徒No'])):
