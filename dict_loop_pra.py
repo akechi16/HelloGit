@@ -25,6 +25,8 @@ for i in range(len(seito['生徒No'])):
 seito
 
 
+import decimal
+import pickle
 
 
 for i in range(len(seito['生徒No'])):
